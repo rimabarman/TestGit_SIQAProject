@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestGit_SIQAProject
+  gitServerName: rimaSCName
+  gitUrl: https://github.com/rimabarman
+  gitUsername: rimabarman
+  gitBranch: main
